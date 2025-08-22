@@ -21,7 +21,7 @@ Nexus Operator — это инструмент на языке Go, предна�
 ## Установка
 
 Из исходного кода
-1. `git clone https://github.com/your-repo/nexus-operator.git && cd nexus-operator`
+1. `git clone https://github.com/zaissler/nexus-operator.git && cd nexus-operator`
 2. `go build -o nexus-operator`
 
 С помощью `go install`
