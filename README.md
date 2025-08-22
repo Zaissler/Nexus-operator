@@ -24,7 +24,7 @@ From Source:
 
 Using `go install`:
 Make sure your `$GOPATH/bin` or `$HOME/go/bin` is in your `PATH`.
-`go install github.com/your-repo/nexus-operator@latest`
+`go install github.com/zaissler/nexus-operator@latest`
 
 ## Usage
 
