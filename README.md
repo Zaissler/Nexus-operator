@@ -19,7 +19,7 @@ Requirements
 ## Installation
 
 From Source:
-1. `git clone https://github.com/Zaissler/Nexus-operator.git`
+1. `git clone https://github.com/Zaissler/Nexus-operator.git && cd Nexus-operator`
 2. `go build -o nexus-operator`
 
 Using `go install`:
