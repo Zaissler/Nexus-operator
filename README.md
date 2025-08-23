@@ -19,12 +19,12 @@ Requirements
 ## Installation
 
 From Source:
-1. `git clone https://github.com/your-repo/nexus-operator.git && cd nexus-operator`
+1. `git clone https://github.com/Zaissler/Nexus-operator.git`
 2. `go build -o nexus-operator`
 
 Using `go install`:
 Make sure your `$GOPATH/bin` or `$HOME/go/bin` is in your `PATH`.
-`go install github.com/zaissler/nexus-operator@latest`
+`go install github.com/Zaissler/Nexus-operator@latest`
 
 ## Usage
 
